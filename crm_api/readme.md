@@ -2,7 +2,9 @@
 
 ## Description
 
-This folder contains a setup using postgres, fastapi and zoho's api to keep control over your forms, the entries in your database and still send them to zoho after. 
+- Zoho CRM Api baseclass with auth-flow, get and post leads methods 
+
+- This folder contains a setup using postgres, fastapi and zoho's api to keep control over your forms, the entries in your database and still send them to zoho after. 
 
 - Additional an example dockerfile. I use it with docker > azure containerapps and connect the containerapp api to my webapp. 
 
