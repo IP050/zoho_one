@@ -1,15 +1,14 @@
-** One ** 
-
+# Zoho One 
 https://go.zoho.com/Gln
 
-** CRM **
+## Zoho CRM 
 
 https://go.zoho.com/hs5
 
-** Social ** 
+## Zoho Social  
 
 https://go.zoho.com/7jW
 
-** Desk ** 
+## Zoho Desk 
 
 https://go.zoho.com/cUR

@@ -11,16 +11,18 @@
 **What do I need to use this** 
 
 - A zoho CRM account 
-- CRM API client_id and client_id, the auth flow in crm_api.py covers the refresh + auth tokens
+- CRM API client_id and client_id, while getting those you will also obtain a token, the auth flow in crm_api.py covers the refresh + auth tokens for V5
 
 **When / why to use this** 
 
-- You want to control whatever happens to your forms first, but capture the leads in zoho after
 - You don't want unecesarry scripts on your webapp
+- You want to control whatever happens to your forms first, but capture the leads in zoho after
 - You don't want to host a zoho form
 - You don't want to embed a zoho form
 
 **I don't want to use docker** 
+
+Create an app dir, rename files to your liking and run it as any other fastapi app
 
 ```
 python -m pip install -r requirements.txt
