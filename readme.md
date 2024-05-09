@@ -1,6 +1,6 @@
-# ZOHO CRM API
+# ZOHO API PYTHON
 
-## Description
+## CRM
 
 - Zoho CRM Api baseclass with auth-flow, get and post leads methods 
 
